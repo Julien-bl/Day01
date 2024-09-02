@@ -1,2 +1,1 @@
-ducoment.write("Hello, World!")
-displayThisText("Hello, wolrd!")
+
