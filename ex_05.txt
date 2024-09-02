@@ -1,3 +1,5 @@
 document.write("welcome to the javascript pool! Have some fun and don't forget to bring a towel.");
 console.log("Website launched!")
 dieser Code funktioniert nicht, er ist deutsch und nicht javascript
+
+"<a class='gotoLine' href='#44:0'>44:0</a> SyntaxError: Unexpected identifier 'Code'"
